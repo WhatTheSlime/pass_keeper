@@ -1,5 +1,5 @@
 # Pass Keeper
-Standalone Key logger over tcp for Linux
+Standalone Key logger over tcp for Linux (Python 3.X)
 - Using Xlib from: https://github.com/python-xlib/python-xlib
 - Using pyxhook from: https://github.com/JeffHoogland/pyxhook
 
